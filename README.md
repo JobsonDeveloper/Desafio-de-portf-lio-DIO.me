@@ -1,4 +1,3 @@
-### Lista de tarefas
 [Veja o site](https://projeto-de-portfolio.netlify.app/)
 
 ### Ferramentas utiliizadas:
